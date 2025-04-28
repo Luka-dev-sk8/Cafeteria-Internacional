@@ -7,7 +7,7 @@ header{
     color: rgb(107, 97, 43);
     font-family: "Alex Brush", cursive;
     height: 15vh;
-    font-size: 30px;
+    font-size: 28px;
     
 }  
 li{
@@ -25,25 +25,21 @@ li{
 ::-webkit-scrollbar{
     width: 14px;
     height: 10px;
-    
-
 }
 ::-webkit-scrollbar-track{
-   background-color: unset;
-   
+background-color: unset;
+
 }
 ::-webkit-scrollbar-thumb{
     background: rgba(44, 7, 7, 0.616);
     border-radius: 20px;
-    
-
 }
 body{
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    margin: unset;  
+    margin: unset;
     background-image: url(imagenes/cafe.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -94,7 +90,7 @@ img{
 }
 .boton{
     height: 10%;
-    width: 100;
+    width: 100%;
     border-radius: 20px;
     border: unset;
     background-color: rgb(40, 40, 192);
