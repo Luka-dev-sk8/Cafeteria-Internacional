@@ -7,9 +7,14 @@ header{
     color: rgb(107, 97, 43);
     font-family: "Alex Brush", cursive;
     height: 15vh;
-    font-size: 28px;
-    
-}  
+    font-size: 130%;
+}
+h1{
+    background-color: aliceblue;
+    width: 100%;
+    text-align: center;
+}
+
 li{
     display: flex;
     align-items: center;
